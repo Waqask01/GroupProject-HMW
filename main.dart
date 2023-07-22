@@ -4,6 +4,7 @@ void main() {
   List<String> tasks = [];
 
   while (true) {
+    print("*** Welcome to My To-Do List ***");
     print("Press 1 to add a task.");
     print("Press 2 to view tasks.");
     print("Press 3 to update a task.");
